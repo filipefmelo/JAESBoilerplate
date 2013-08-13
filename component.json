@@ -1,0 +1,12 @@
+{
+    "name": "JAESBoilerplate",
+    "description": "JAESBoilerplate gives you a quick head start with Jade, AngularJS, Express and Stylus",
+    "version": "0.1",
+    "author": {
+        "name": "Filipe Melo"
+    },
+    "main": "public/js/app.js",
+    "dependencies": {
+        "angular": "1.0.6"
+    }
+}
