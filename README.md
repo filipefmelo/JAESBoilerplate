@@ -15,3 +15,4 @@ Just run the following command: "PORT=8000 node app" on your console
 filipefmelo [at] gmail.com
 
 **Felix Müller**
+mueller.fe [at] gmail.com
