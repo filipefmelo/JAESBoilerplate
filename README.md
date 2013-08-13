@@ -10,7 +10,7 @@ Just run the following command: "./run.sh" on your console
 
 Just run the following command: "PORT=8000 node app" on your console
 
-## Credits
+### Credits
 **Filipe Melo** 
 filipefmelo [at] gmail.com
 
