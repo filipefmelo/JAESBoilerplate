@@ -4,4 +4,3 @@
 npm install
 npm -g install bower
 bower install
-PORT=8000 node app
