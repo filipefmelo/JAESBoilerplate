@@ -1,6 +1,7 @@
 # JAESBoilerplate
 
 JAESBoilerplate gives you a quick head start with Jade, AngularJS, Express and Stylus
+
 It also includes a translation engine, just edit public/values/values.js to add your key/value and use the following way:
     In view:
         {{t("dot.notation.values")}}
