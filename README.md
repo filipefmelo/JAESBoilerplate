@@ -11,6 +11,7 @@ It also includes a translation engine, just edit public/values/values.js to add 
 The translation loaded will depend on AngularJS native $locale.id
 
 If value replacement is needed, use it the following way:
+
     The value:
         "en-us":
         {
@@ -29,7 +30,7 @@ Just run the following command: "./run.sh" on your console
 
 ## How to make it run on your browser
 
-Just run the following command: "PORT=8000 node app" on your console
+Just run the following command: "node app" on your console and load it up on your browser with "localhost:3000"
 
 ### Credits
 **Filipe Melo** 
